@@ -11,3 +11,4 @@ Other variables that can be incorporated in this design are:
 2. Converting DC output of FAB to AC signal  
 3. Duty cycle 
 
+Shoutout to Ben Style, Bruno Sousa and Natalie Kerr for their contributions in the project!
